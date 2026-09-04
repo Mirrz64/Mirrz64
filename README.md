@@ -71,8 +71,6 @@ and streaming architectures such as:
 
 ## 📫 Let's Connect
 
-🌐 **Website:** [www.9gearpulse.com](https://www.9gearpulse.com)
-
 💼 **LinkedIn:** [linkedin.com/in/miracle-osabuogbe-b62294130](https://www.linkedin.com/in/miracle-osabuogbe-b62294130)
 
 📧 **Email:** [mosabuogbe@gmail.com](mailto:mosabuogbe@gmail.com)
