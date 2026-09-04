@@ -30,9 +30,10 @@ My work focuses on turning raw data into reliable, production-ready data product
 
 ## ⚙️ Featured Projects
 
-| Project                                 | Technologies                           | What I Built                                                                                                |
-| :-------------------------------------- | :------------------------------------- | :---------------------------------------------------------------------------------------------------------- |
+| Project                                | Technologies                           | What I Built                                                                                                |
+| --------------------------------------- | --------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | 🚀 **9Gear Pulse**                      | FastAPI · Next.js · Cloudflare         | Data engineering control-plane platform for pipeline orchestration, monitoring, and operational visibility. |
+| 🌍 **TripLens Countries Explorer**      | Airflow · dbt · Snowflake · Power BI   | Automated ELT pipeline: RestCountries API → MinIO → Snowflake, orchestrated weekly, modeled into a tested star schema, visualized in an interactive dashboard. |
 | 🏙️ **CivicPulse 311**                  | Azure · PostgreSQL · Python · Power BI | Cloud data platform for ingesting, transforming, and analysing NYC 311 operational data.                    |
 | 🏗️ **E-Commerce Medallion Lakehouse**  | Airflow · dbt · PostgreSQL · Docker    | End-to-end Bronze → Silver → Gold ELT architecture with automated orchestration and data transformation.    |
 | 🏥 **Patient Health Metrics Pipeline**  | PySpark · Python · Power BI            | Streaming healthcare telemetry pipeline with automated data processing and PII protection.                  |
